@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/pi/.ignition/clientlauncher-data/ProductLogo_48x48.png
+Name=AlarmScreen
+Exec="/home/pi/Desktop/clientlauncher.sh" scope=C project=AlarmScreen gateway.addr=10.65.48.11:8088/main gateway.backup.addr=10.65.48.25:8088:8043 windowmode=fullscreen
